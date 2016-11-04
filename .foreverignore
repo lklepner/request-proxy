@@ -1,0 +1,16 @@
+logs/**
+**/.git/**
+public/**
+.idea/**
+**/views/**
+dump/**
+data/**
+**/node_modules/**
+backups/**
+config/**
+init/**
+mongo/**
+
+# Restart only when js files are changed.
+!*.js
+!*.js
